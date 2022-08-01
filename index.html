@@ -11,20 +11,24 @@
 <body>
 
   <main class="container"> 
-    <div class="advice-id">
-      Advice #<!-- Advice ID goes here -->
+    <div class="advice-number">
+      Advice #<span class="advice-id"></span>
     </div>
-    <article class="advice-text">
-      "<!-- Advice text goes here -->"
-    </article>
-    <div class="decoration">
-
-    </div>
+    <article class="advice-text"></article>
+    <picture class="divider">
+      <source media="(min-width: 620px" srcset="./images/pattern-divider-desktop.svg">
+      <img src="./images/pattern-divider-mobile.svg" alt="Dice icon" />
+    </picture>
+    <button class="dice-btn">
+      <img src="./images/icon-dice.svg" alt="Dice icon" />
+    </button>
   </main>
   
   <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="https://github.com/nubiasegovia">Núbia Segóvia</a>.
+    Challenge by &nbsp<a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by &nbsp<a href="https://github.com/nubiasegovia">Núbia Segóvia</a>.
   </div>
+
+  <script src="app.js"></script>
 </body>
 </html>
