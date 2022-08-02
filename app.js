@@ -11,7 +11,7 @@ function generateAdvice() {
         })
         .then(function (data) {
             adviceNumber.innerText = data.slip.id;
-            adviceText.innerHTML = `"${data.slip.advice}" `;
+            adviceText.innerHTML = data.slip.advice;
         });
 }
 
