@@ -32,6 +32,7 @@ Desktop
 ![Desktop screenshot](./design/screenshot/advicegenerator-desktop.png)
 
 Mobile
+
 ![Mobile screenshot](./design/screenshot/advicegenerator-mobile.png)
 
 ### Links
