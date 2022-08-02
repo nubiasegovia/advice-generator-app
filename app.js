@@ -10,8 +10,8 @@ function generateAdvice() {
             return data;
         })
         .then(function (data) {
-            adviceNumber.innerText = `"${data.slip.id}" `;
-            adviceText.innerHTML = data.slip.advice;
+            adviceNumber.innerText = data.slip.id;
+            adviceText.innerHTML = `"${data.slip.advice}" `;
         });
 }
 
