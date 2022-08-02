@@ -37,8 +37,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice generator app](https://www.frontendmentor.io/solutions/advice-generator-app-M2uhbLSjOa)
+- Live Site URL: [Github page - Advice generator](https://nubiasegovia.github.io/advice-generator-app/)
 
 ## My process
 
