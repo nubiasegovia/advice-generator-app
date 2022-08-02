@@ -13,7 +13,6 @@ The designs were created to the following widths:
 
 - Light Cyan: hsl(193, 38%, 86%)
 - Neon Green: hsl(150, 100%, 66%)
-
 ### Neutral
 
 - Grayish Blue: hsl(217, 19%, 38%)
