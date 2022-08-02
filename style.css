@@ -33,7 +33,7 @@ body {
 .advice-number {
     color: hsl(150, 100%, 66%);
     text-transform: uppercase;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     letter-spacing: 5px;
     font-weight: 500;
 }
