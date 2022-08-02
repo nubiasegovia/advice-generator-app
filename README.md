@@ -28,7 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop
+![Desktop screenshot](./design/screenshot/advicegenerator-desktop.png)
+
+Mobile
+![Mobile screenshot](./design/screenshot/advicegenerator-mobile.png)
 
 ### Links
 
@@ -42,7 +46,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Author
 
